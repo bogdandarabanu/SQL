@@ -1,0 +1,3 @@
+# SQL
+# SQL
+Aici avem doua baze de date relationale manipulate in SMSMS, una cu un magazin iar cealalta cu o biblioteca unde am efectuat tot felul de QUERIES.
