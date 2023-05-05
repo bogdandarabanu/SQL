@@ -1,3 +1,4 @@
 # SQL
 # SQL
-Aici avem doua baze de date relationale manipulate in SMSMS, una cu un magazin iar cealalta cu o biblioteca unde am efectuat tot felul de QUERIES.
+Here we have two relational databases manipulated in SMSMS, one with a store and the other with a library where we performed all kinds of QUERIES.
+
